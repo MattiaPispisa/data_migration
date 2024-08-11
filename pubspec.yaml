@@ -1,6 +1,5 @@
 name: data_migration
-description: A library for applying a series of migrations to update old versions of data structures to the most
-  recent one.
+description: A library for applying a series of migrations to update old versions of data structures to the most recent one.
 version: 1.0.0
 homepage: https://mattiapispisa.github.io/
 repository: https://github.com/MattiaPispisa/data_migration
