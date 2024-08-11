@@ -1,0 +1,16 @@
+name: data_migration
+description: A library for applying a series of migrations to update old versions of data structures to the most
+  recent one.
+version: 1.0.0
+homepage: https://mattiapispisa.github.io/
+repository: https://github.com/MattiaPispisa/data_migration
+topics: [ migration, data, json, serializable ]
+
+
+environment:
+  sdk: '>=2.17.0 <4.0.0'
+
+dev_dependencies:
+  mocktail: ^1.0.4
+  test: ^1.25.7
+  very_good_analysis: ^6.0.0

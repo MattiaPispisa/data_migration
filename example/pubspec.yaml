@@ -1,0 +1,11 @@
+name: data_migration_example
+description: Data migration example
+version: 0.1.0+1
+publish_to: none
+
+environment:
+  sdk: '>=2.17.0 <4.0.0'
+
+dependencies:
+  data_migration:
+    path: ../
